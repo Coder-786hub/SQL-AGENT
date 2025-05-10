@@ -41,6 +41,7 @@ jsonschema-specifications==2025.4.1
 MarkupSafe==3.0.2
 matplotlib-inline==0.1.7
 multidict==6.4.3
+mysql-connector-python==8.0.33
 narwhals==1.37.0
 numpy==2.2.5
 openai==0.27.10
